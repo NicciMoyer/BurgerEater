@@ -36,7 +36,7 @@ Developers will need to enable:
 
 ## Link
 
-Deployed: https://niccimoyer.github.io/burgereater/
+Deployed: https://burger-eater-nicci.herokuapp.com
 
 ## Feedback?
 
